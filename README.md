@@ -1,2 +1,2 @@
 # ToBot_Plugin_LowcyGierPl
-Plugin for ToBot that subscribes to RSS of http://lowcygier.pl .
+Plugin for [ToBot](https://github.com/tariel36/ToBot) that subscribes to RSS of http://lowcygier.pl portal.
