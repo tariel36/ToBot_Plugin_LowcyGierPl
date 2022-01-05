@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\ToBot\project\ToBot.Plugins\ToBot.Plugins.Specific\ToBot.Plugin.GenericRssPlugin\ToBot.Plugin.GenericRssPlugin.csproj" />
+  </ItemGroup>
+
+</Project>
